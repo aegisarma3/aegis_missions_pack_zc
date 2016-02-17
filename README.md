@@ -1,4 +1,4 @@
-# AEGIS MOD Versão 0.1 #
+# AEGIS MOD Versão 0.3 #
 
 Este repositório é para o Pack de missões desenvolvida pelo grupo AEGIS destinado ao grupo Zona de Combate.
 
